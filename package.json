@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@paypal/react-paypal-js": "^4.1.0",
     "paystack": "^2.0.1"
   }
 }
